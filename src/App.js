@@ -4,7 +4,7 @@ import Header from './components/Header/Header';
 import Home from './components/home/home'
 import About from './components/About/About';
 import Skills from './components/Skills/Skills';
-import Services from './components/services/Services';
+import Projects from './components/projects/Projects';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           <Home />
           <About />
           <Skills />
-          <Services />
+          <Projects />
         </main>
     </>
   );
