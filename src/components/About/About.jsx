@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Smth Frontedn sdfsdffsfdfsd write some text here
+            You can download my CV, just click button below
           </p>
           <a download="" href={CV} className="button button--flex">Download CV
             <svg
