@@ -31,12 +31,12 @@ const Projects = () => {
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://github.com/katyeheisenberg/ecommerce">GitHub</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://github.com/katyeheisenberg/ecommerce">GitHub</a></p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://effervescent-mischievous.onrender.com/">Project</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://effervescent-mischievous.onrender.com/">Project</a></p>
                 </li>
               </ul>
             </div>
@@ -61,12 +61,12 @@ const Projects = () => {
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://github.com/katyeheisenberg/myPage">GitHub</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://github.com/katyeheisenberg/myPage">GitHub</a></p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://kittys-blog.vercel.app/">Project</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://kittys-blog.vercel.app/">Project</a></p>
                 </li>
               </ul>
             </div>
@@ -91,12 +91,12 @@ const Projects = () => {
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://github.com/katyeheisenberg/mui-sNetwork">GitHub</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://github.com/katyeheisenberg/mui-sNetwork">GitHub</a></p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"><a href="https://mui-s-network.vercel.app/">Project</a></p>
+                  <p className="services__modal-info"><a className="services__modal-info" href="https://mui-s-network.vercel.app/">Project</a></p>
                 </li>
               </ul>
             </div>
