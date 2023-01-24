@@ -67,7 +67,7 @@
   width: 250px;
   height: 200px;
   position: relative;
-  background-color: rgba(129, 212, 248, 0.7);
+  background-color: transparent;
   padding: 1.6rem;
   border-radius: 1.5rem;
 }
@@ -85,16 +85,18 @@
   text-align: center;
   color: white;
   font-size: var(--small-font-size);
-  padding: 0;
+  padding: 10px;
+  margin: 1px;
 }
 
 .services__modal-info {
   color: white;
   font-size: var(--small-font-size);
+
 }
 
 .services__modal-icon {
-  color: rgb(4, 52, 88);
+  color: rgb(135, 195, 240);
   font-size: 1.1rem;
 }
 

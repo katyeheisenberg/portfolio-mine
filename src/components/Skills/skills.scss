@@ -1,13 +1,11 @@
 .skills__container {
-  grid-template-columns: repeat(2, 350px);
-  column-gap: 3rem;
   justify-content: center;
 }
 
 .skills__content {
   background-color: rgba(12, 85, 116, 0.3);
   border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 2rem 4rem;
+  padding: 3rem 4rem;
   border-radius: 1.25rem;
 }
 
