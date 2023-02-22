@@ -2,7 +2,7 @@ import React from 'react';
 import "./About.scss";
 import AboutImg from "../../assets/Aboout.jpg";
 import Info from './Info';
-import CV from "../../assets/CV.png"
+import CV from "../../assets/ChicherinaCV.png"
 
 const About = () => {
   return (
