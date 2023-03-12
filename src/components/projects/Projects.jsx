@@ -12,7 +12,6 @@ const Projects = () => {
       <h2 className="section__title">Projects</h2>
 
       <div className="services__container container grid">
-
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
@@ -70,7 +69,7 @@ const Projects = () => {
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
-            <h3 className="services__title">Social Network template</h3>
+            <h3 className="services__title">eCommerce</h3>
           </div>
 
           <span className="services__button" onClick={() => toggleTab(3)}>
@@ -98,21 +97,9 @@ const Projects = () => {
                   <p className="services__modal-info">
                     <a
                       className="services__modal-info"
-                      href="https://github.com/katyeheisenberg/mui-sNetwork"
+                      href="https://github.com/katyeheisenberg/eCommerce"
                     >
                       GitHub
-                    </a>
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    <a
-                      className="services__modal-info"
-                      href="https://mui-s-network.vercel.app/"
-                    >
-                      Project
                     </a>
                   </p>
                 </li>
