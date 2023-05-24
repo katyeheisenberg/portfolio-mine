@@ -15,7 +15,7 @@ const Projects = () => {
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
-            <h3 className="services__title">Blog page</h3>
+            <h3 className="services__title">CV page</h3>
           </div>
 
           <span className="services__button" onClick={() => toggleTab(2)}>
@@ -43,7 +43,7 @@ const Projects = () => {
                   <p className="services__modal-info">
                     <a
                       className="services__modal-info"
-                      href="https://github.com/katyeheisenberg/myPage"
+                      href="https://github.com/katyeheisenberg/portfolio-mine"
                     >
                       GitHub
                     </a>
@@ -55,7 +55,7 @@ const Projects = () => {
                   <p className="services__modal-info">
                     <a
                       className="services__modal-info"
-                      href="https://kittys-blog.vercel.app/"
+                      href="https://portfolio-mine-taupe.vercel.app/"
                     >
                       Project
                     </a>
