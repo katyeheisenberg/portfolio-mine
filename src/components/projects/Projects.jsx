@@ -139,7 +139,7 @@ const Projects = () => {
                   <p className="services__modal-info">
                     <a
                       className="services__modal-info"
-                      href="https://github.com/katyeheisenberg/stackoverflow_copuCodeExtensio"
+                      href="https://github.com/katyeheisenberg/stackoverflow_copuCodeExtension"
                     >
                       GitHub
                     </a>
